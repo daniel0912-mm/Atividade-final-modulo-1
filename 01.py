@@ -1,4 +1,4 @@
-lista = {1,3,5,6,7}
+lista = [1,3,5,6,7]
 print(lista)
 
 if 2 not in lista: 
