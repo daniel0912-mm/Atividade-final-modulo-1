@@ -1,0 +1,18 @@
+lista = []
+lista.append(10)
+print(lista)
+lista.append(20)
+print(lista)
+lista.append(30)
+print(lista)
+lista.remove(20)
+print(lista)
+lista.remove(10)
+print(lista)
+
+print("O metodo append(), adiciona um valor na lista.")
+print("O metodo pop() exclui pelo indice e retorna o valor em uma variavel.")
+print("O metodo insert() pode inserir o valor em um indice especifico.")
+print("O metodo sort() colocar em ordem crescente ou ordem alfabetica")
+print("O metodo count() e para fazer saber uma pesquisa e saber quantas vezes o valor ou nome se repete em uma lista, tulipa ou string.")
+print("O metodo sum() faz o somatorio de todos os valores de uma lista")

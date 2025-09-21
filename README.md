@@ -1,0 +1,1 @@
+Nessa pasta estarão as resoluções das atividades propostas no exercicio de avaliação final do modulo 1
